@@ -1,5 +1,5 @@
 # Bounce
-In collaboration with two other team members (Anthony Shenouda and Eric) we attempted at creating an android game using Corona and the programming language Lua. 
+In collaboration with two other team members (Anthony Shenouda and Eric) we attempted to create an android game using Corona and the programming language Lua. 
 
 This app is in rough stages but has all the functionalilty, just not the asthetics. 
 
